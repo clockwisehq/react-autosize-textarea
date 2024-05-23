@@ -43,7 +43,7 @@
   "devDependencies": {
     "@types/autosize": "3.0.6",
     "@types/jest": "21.1.8",
-    "@types/node": "^8.0.54",
+    "@types/node": "^20.12.12",
     "@types/prop-types": "^15.7.3",
     "@types/react": "^16.8.1",
     "@types/react-dom": "^16.0.11",
